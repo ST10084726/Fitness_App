@@ -1,0 +1,19 @@
+Changelog for Fitness App 
+*************************************************
+Changes from part 1 to part 2:
+-- Change colour scheme from a lighter tone to a darker tone
+-- Removal of about page
+-- Added home page
+-- Change the design of the timer system
+-- Change the design of the clock system
+*************************************************
+Changes from part 2 to part 3:
+-- Change the design of the home page
+-- Added firestore and real-time database
+-- Change the layout for the planner page
+-- Change the colour of the buttons
+-- Added an About Page
+-- Added a Logout option
+-- took out the button to take you the Tracker page and replace it with a image view
+-- Fixed the spelling error of the logo
+--Added Kanban
