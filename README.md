@@ -63,6 +63,12 @@ Contributions to Exercise in Minutes are welcome! If you would like to contribut
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## Kanban
+Link: https://github.com/users/ST10084726/projects/9/views/1
+
+## Github
+Link: 
+
 ## Troubleshooting
 * App Crashes on Startup
 Solution:
