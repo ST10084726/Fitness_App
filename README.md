@@ -25,6 +25,14 @@ Before building and running the Exercise in Minutes app, ensure that you have th
 - Android SDK (minimum SDK version 21)
 - Java Development Kit (JDK 8 or above)
 
+## Code Attribution
+This fitness app utilizes various open-source libraries and resources, and we would like to acknowledge the following projects:
+- [Android Jetpack](https://developer.android.com/jetpack) - Android Jetpack is a set of libraries, tools, and architectural guidance provided by Google that helps developers build high-quality Android apps.
+- [Firebase](https://firebase.google.com/) - Firebase is a mobile and web application development platform that provides backend services and tools for building and scaling apps.
+- [Glide](https://github.com/bumptech/glide) - Glide is an image loading and caching library for Android that simplifies the process of working with images.
+- [Material Design Components](https://github.com/material-components/material-components-android) - Material Design Components is a collection of UI components that implement Material Design guidelines for Android apps.
+- [OpenAI GPT-3](https://openai.com/) - OpenAI GPT-3 is a powerful language model that provides natural language processing capabilities for generating human-like text.
+
 ## Getting Started
 Follow the steps below to set up and run the Exercise in Minutes app in Android Studio:
 - Clone the Exercise in Minutes repository from GitHub:
@@ -58,3 +66,25 @@ Solution:
 2) Check the AndroidManifest.xml file and ensure that the minimum SDK version specified is compatible with the device or emulator you are using.
 3) Verify that all required dependencies are properly configured in the project's build.gradle file.
 4) Review the logcat output in Android Studio for any error messages or exceptions. Identify and fix any runtime issues in the code.
+
+## FAQ
+```bash
+<br /> Q - How do I log in to the app?
+<br /> A - On the login screen, enter your email address and password in the respective fields and click the "Login" button.
+
+<br /> Q - How do I create a new account?
+<br /> A - On the registration screen, enter your desired email address, password, and confirm the password. Then, click the "Register" button to create a new account.
+
+<br /> Q - Can I track my exercise activities with this app?
+<br /> A - Yes, the app provides a dedicated section for tracking exercise activities. You can log your workouts, set goals, and monitor your progress.
+
+<br /> Q - Is my data secure and private?
+<br /> A - Yes, the app prioritizes data security and privacy. We utilize Firebase's secure backend services, including user authentication and data storage, to ensure the confidentiality and integrity of your information.
+
+<br /> Q - How do I log out of the app?
+<br /> A - To log out, go to the app's menu and select the "Log Out" option. This will securely sign you out of your account.
+
+<br /> Q - How can I contact the support team for assistance?
+<br /> A -  If you have any questions, feedback, or need technical support, you can reach out to our support team at syuren187@gmail.com. We are here to help!
+
+```
