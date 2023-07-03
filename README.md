@@ -67,7 +67,7 @@ Contributions to Exercise in Minutes are welcome! If you would like to contribut
 Link: https://github.com/users/ST10084726/projects/9/views/1
 
 ## Github
-Link: 
+Link: https://github.com/ST10084726/Fitness_App/tree/Updated
 
 ## Troubleshooting
 * App Crashes on Startup
