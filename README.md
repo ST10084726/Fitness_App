@@ -56,6 +56,10 @@ Contributions to Exercise in Minutes are welcome! If you would like to contribut
 6) Push your branch to your forked repository.
 7) Open a pull request on the original Exercise in Minutes repository, describing your changes in detail.
 
+## Default logins:
+- Email: admin@gmail.com
+- Password: admin123
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
